@@ -19,15 +19,6 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in bot
 - **Database:** MongoDB, MySQL  
 - **Tools:** Git, VS Code, Postman  
 
-## 📈 GitHub Stats
-
-![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=satishmadhunala1&show_icons=true&theme=radical)
-
-## 📂 Top Repositories
-
-[![Full-Stack E-Commerce App] (https://e-commerce-five-phi-52.vercel.app/)
-[![Blog Platform] (https://portfolio-orcin-mu-46.vercel.app/)
-
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/satish-madhunala-671305213/)
