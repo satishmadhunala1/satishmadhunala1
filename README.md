@@ -1,4 +1,4 @@
-# Hi there, I'm Satish Madhunala 👋
+# Hi there, I'm <span style="color:blue; font-weight:bold;">Satish Madhunala</span> 👋
 
 Welcome to my GitHub profile! I'm a passionate web developer specializing in both front-end and back-end development. I enjoy creating dynamic, responsive web applications and continuously learning new technologies to improve my skills.
 
@@ -54,5 +54,3 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in bot
 <br />
 
 ---
-
-Thanks for visiting my profile!
