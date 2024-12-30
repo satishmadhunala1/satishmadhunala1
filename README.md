@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a passionate web developer specializing in bot
 
 ## 📂 Top Repositories
 
-[![Full-Stack E-Commerce App](https://github-readme-stats.vercel.app/api/pin/?username=satishmadhunala1&repo=full-stack-ecommerce&theme=radical)](https://e-commerce-five-phi-52.vercel.app/)
-[![Blog Platform](https://github-readme-stats.vercel.app/api/pin/?username=satishmadhunala1&repo=blog-platform&theme=radical)](https://portfolio-orcin-mu-46.vercel.app/)
+[![Full-Stack E-Commerce App] (https://e-commerce-five-phi-52.vercel.app/)
+[![Blog Platform] (https://portfolio-orcin-mu-46.vercel.app/)
 
 ## 🔗 Connect with Me
 
