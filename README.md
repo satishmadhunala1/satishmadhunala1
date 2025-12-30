@@ -1,103 +1,150 @@
-# 👋 Hello, I'm <span style="color:#3B82F6; font-weight:bold;">Satish Madhunala</span>
+<!-- ===================== HERO ===================== -->
+<div align="center">
 
-### Full-Stack Developer | Passionate Coder | Continuous Learner
+<svg width="100%" height="180" viewBox="0 0 1440 320" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="heroGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#heroGrad)" d="M0,192L60,176C120,160,240,128,360,112C480,96,600,96,720,128C840,160,960,224,1080,229C1200,235,1320,181,1380,155L1440,128L1440,0L0,0Z"/>
+</svg>
 
-Welcome to my digital space! I'm a dedicated web developer who crafts seamless, responsive, and dynamic applications with modern technologies. I thrive on turning complex challenges into elegant solutions.
+<h1>👋 Hi, I'm <span style="color:#3B82F6;">Satish Madhunala</span></h1>
+<h3>🚀 Full-Stack Developer • Problem Solver • Lifelong Learner</h3>
+
+<p>
+I build scalable, high-performance web applications with modern technologies.<br/>
+Focused on clean architecture, performance, and beautiful UI.
+</p>
+
+</div>
 
 ---
 
-## 🌟 About Me
+## 🧠 About Me
 
-- 🚀 **Currently Building:** Full-stack applications with modern tech stacks
-- 📚 **Learning Journey:** Advanced backend systems, cloud architecture, and performance optimization
-- 🤝 **Looking to Collaborate:** On innovative full-stack projects
-- 🎯 **Expertise Areas:** React ecosystems, Node.js backends, and database design
-- 📧 **Get in Touch:** [satishmadhunala03@gmail.com](mailto:satishmadhunala03@gmail.com)
-- ⚡ **Beyond Code:** Music enthusiast 🎵 | Cricket player 🏏 | Tech explorer 🔍
+<table>
+<tr>
+<td width="65%">
+
+- 🔥 Full-Stack Web Developer  
+- 🛠 Strong in React, Node.js & REST APIs  
+- 🌱 Learning System Design, Cloud & Optimization  
+- 🤝 Open to collaborations & startups  
+- ⚡ Music 🎵 | Cricket 🏏 | Tech Explorer  
+
+📧 **Email:** satishmadhunala03@gmail.com
+
+</td>
+<td width="35%" align="center">
+
+<svg width="200" height="200" viewBox="0 0 24 24" fill="none">
+  <circle cx="12" cy="12" r="10" stroke="#3B82F6" stroke-width="2"/>
+  <path d="M8 12l2 2 4-4" stroke="#8B5CF6" stroke-width="2"/>
+</svg>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satishmadhunala1.github.io)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-madhunala)
-[![Instagram](https://img.shields.io/badge/📷_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/satishmadhunala)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishmadhunala03@gmail.com)
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SatishMadunala&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatishMadunala&layout=compact&theme=radical&hide_border=true" />
+<a href="https://satishmadhunala1.github.io">
+<img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/satish-madhunala">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://www.instagram.com/satishmadhunala">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+<a href="mailto:satishmadhunala03@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
 
 ---
 
-## 📈 Recent Activity
+## 🛠️ Tech Stack
 
-<!-- GitHub Readme Activity Graph -->
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatishMadunala&theme=github-compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SatishMadunala&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatishMadunala&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 What I Bring to Projects
+## 📈 Activity Graph
 
-| **Frontend Excellence** | **Backend Reliability** | **DevOps & Tools** |
-|-------------------------|------------------------|--------------------|
-| • Responsive Design | • RESTful APIs | • Git Version Control |
-| • Modern UI/UX | • Database Architecture | • CI/CD Pipelines |
-| • State Management | • Authentication Systems | • Performance Optimization |
-| • Component Libraries | • Server-Side Logic | • Testing & Debugging |
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SatishMadunala&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 What I Deliver
+
+| Frontend | Backend | Engineering |
+|--------|---------|------------|
+| Modern UI/UX | REST APIs | Clean Architecture |
+| Responsive Design | Auth Systems | Performance |
+| State Management | DB Design | Debugging |
+| Components | Server Logic | Scalable Code |
 
 ---
 
 ## 💼 Featured Projects
 
-> 🔥 **E-Commerce Platform** – Full-stack React + Node.js application with real-time cart functionality  
-> 🌐 **Portfolio Website** – Responsive personal portfolio with dark mode and animations  
-> 📊 **Analytics Dashboard** – Interactive data visualization with dynamic charts and filters  
+🔥 **E-Commerce Platform**  
+Full-stack React + Node app with authentication & cart  
 
-[![View All Projects](https://img.shields.io/badge/📂_View_All_Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SatishMadunala?tab=repositories)
+🌐 **Portfolio Website**  
+Responsive portfolio with animations  
 
----
-
-## 📬 Let's Build Something Amazing!
-
-I'm always open to discussing new opportunities, exciting projects, or just having a chat about technology. Feel free to reach out!
+📊 **Analytics Dashboard**  
+Dynamic charts & insights  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SatishMadunala&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>"Turning ideas into functional, beautiful applications, one line of code at a time."</i>
+<a href="https://github.com/SatishMadunala?tab=repositories">
+<img src="https://img.shields.io/badge/View_All_Projects-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
+
+## 📬 Let’s Connect
+
+<p align="center">
+
+<svg width="100%" height="120" viewBox="0 0 1440 320" preserveAspectRatio="none">
+  <path fill="#3B82F6" fill-opacity="0.15"
+    d="M0,160L48,171C96,181,192,203,288,213C384,224,480,224,576,203C672,181,768,139,864,128C960,117,1056,139,1152,155C1248,171,1344,181,1392,187L1440,192L1440,320L0,320Z"/>
+</svg>
+
+<i>“Turning ideas into scalable, beautiful software — one commit at a time.”</i>
+
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=SatishMadunala&label=Profile+Views&color=3B82F6&style=flat"/>
+
+</p>
