@@ -1,88 +1,56 @@
-<h1 align="center">Satish Madhunala</h1>
+# Hi there, I'm <span style="color:blue; font-weight:bold;">Satish Madhunala</span> 👋
 
-<p align="center">
-<b>Full-Stack Developer</b> · Builder · Problem Solver
-</p>
+Welcome to my GitHub profile! I'm a passionate web developer specializing in both front-end and back-end development. I enjoy creating dynamic, responsive web applications and continuously learning new technologies to improve my skills.
 
-<p align="center">
-<a href="https://satishmadhunala1.github.io">Portfolio</a> •
-<a href="https://www.linkedin.com/in/satish-madhunala">LinkedIn</a> •
-<a href="mailto:satishmadhunala03@gmail.com">Email</a>
-</p>
+## 🚀 About Me
 
----
+- 🔭 I’m currently working on building full-stack web applications.
+- 🌱 I’m currently learning advanced Node.js, Express.js, and database integration.
+- 👯 I’m looking to collaborate on full-stack development projects.
+- 🤔 I’m looking for help with optimizing back-end APIs and performance.
+- 💬 Ask me about front-end development with React and back-end development with Node.js.
+- 📫 How to reach me: [satishmadhunala03@gmail.com](mailto:satishmadhunala03@gmail.com).
+- ⚡ Fun fact: I love listening to music and playing cricket.
 
-## About Me
+### Connect with Me:
 
-I am a passionate Full-Stack Developer focused on building clean, scalable, and user-friendly web applications.  
-I enjoy transforming ideas into real-world products using modern technologies.
+[<img align="left" alt="Satish Madhunala's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Satish Madhunala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Satish Madhunala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- Full-stack web development  
-- Clean UI & efficient backend logic  
-- Continuous learning mindset  
-- Music 🎵 | Cricket 🏏 | Tech enthusiast  
+<br />
 
----
+[website]: https://satishmadhunala1.github.io
+[linkedin]: https://www.linkedin.com/in/satish-madhunala
+[instagram]: https://www.instagram.com/satishmadhunala
 
-## Skills & Technologies
+## 🛠️ Technologies & Tools
 
-**Frontend**
-- HTML5, CSS3, JavaScript  
-- React.js  
-- Tailwind CSS  
+### Front-End  
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-**Backend**
-- Node.js  
-- Express.js  
+<br />
 
-**Databases**
-- MongoDB  
-- MySQL  
+### Back-End  
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
-**Tools**
-- Git & GitHub  
-- VS Code  
-- Postman  
+<br />
 
----
+### Database  
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-## GitHub Statistics
+<br />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SatishMadunala&show_icons=true&hide_border=true" />
-</p>
+### Tools  
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatishMadunala&layout=compact&hide_border=true" />
-</p>
+<br />
 
 ---
-
-## Projects
-
-**E-Commerce Application**  
-React + Node.js full-stack app with authentication and cart system  
-
-**Portfolio Website**  
-Responsive personal portfolio with modern UI  
-
-**Analytics Dashboard**  
-Interactive dashboard with charts and filters  
-
-View all projects:  
-https://github.com/SatishMadunala?tab=repositories
-
----
-
-## Contact
-
-📧 Email: satishmadhunala03@gmail.com  
-🌐 Portfolio: https://satishmadhunala1.github.io  
-
-<p align="center">
-<i>“Build clean. Learn continuously. Improve daily.”</i>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SatishMadunala&label=Profile%20Views&style=flat" />
-</p>
