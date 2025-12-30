@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋 I'm Satish Madhunala</h1>
+<h1 align="center">Satish Madhunala</h1>
 
 <p align="center">
-Full-Stack Developer • Problem Solver • Tech Enthusiast
+<b>Full-Stack Developer</b> · Builder · Problem Solver
 </p>
 
 <p align="center">
@@ -12,80 +12,77 @@ Full-Stack Developer • Problem Solver • Tech Enthusiast
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a passionate **Full-Stack Developer** who enjoys building scalable, user-focused web applications.  
-I focus on **clean code**, **performance**, and **modern UI experiences**.
+I am a passionate Full-Stack Developer focused on building clean, scalable, and user-friendly web applications.  
+I enjoy transforming ideas into real-world products using modern technologies.
 
-- 🚀 Building full-stack web apps  
-- 🌱 Learning system design & cloud technologies  
-- 🤝 Open to collaboration & real-world projects  
-- ⚡ Music 🎵 | Cricket 🏏 | Exploring tech  
+- Full-stack web development  
+- Clean UI & efficient backend logic  
+- Continuous learning mindset  
+- Music 🎵 | Cricket 🏏 | Tech enthusiast  
 
 ---
 
-## 🛠 Tech Stack
+## Skills & Technologies
 
 **Frontend**
-- HTML, CSS, JavaScript
-- React, Tailwind CSS
+- HTML5, CSS3, JavaScript  
+- React.js  
+- Tailwind CSS  
 
 **Backend**
-- Node.js, Express.js
+- Node.js  
+- Express.js  
 
 **Databases**
-- MongoDB, MySQL
+- MongoDB  
+- MySQL  
 
 **Tools**
-- Git, GitHub, VS Code, Postman
+- Git & GitHub  
+- VS Code  
+- Postman  
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SatishMadunala&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=SatishMadunala&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatishMadunala&layout=compact" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SatishMadunala&theme=minimal" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatishMadunala&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 What I Can Do
+## Projects
 
-- Build responsive & modern UIs
-- Develop RESTful APIs
-- Design databases & backend logic
-- Debug, optimize & scale applications
+**E-Commerce Application**  
+React + Node.js full-stack app with authentication and cart system  
 
----
+**Portfolio Website**  
+Responsive personal portfolio with modern UI  
 
-## 💼 Projects
+**Analytics Dashboard**  
+Interactive dashboard with charts and filters  
 
-- **E-Commerce App** – React + Node + MongoDB  
-- **Portfolio Website** – Responsive & animated  
-- **Dashboard App** – Data visualization & filters  
-
-👉 View all projects here:  
+View all projects:  
 https://github.com/SatishMadunala?tab=repositories
 
 ---
 
-## 📬 Contact Me
+## Contact
 
-📧 **Email:** satishmadhunala03@gmail.com  
-🌐 **Portfolio:** https://satishmadhunala1.github.io  
+📧 Email: satishmadhunala03@gmail.com  
+🌐 Portfolio: https://satishmadhunala1.github.io  
 
 <p align="center">
-<i>"Code with clarity. Build with purpose."</i>
+<i>“Build clean. Learn continuously. Improve daily.”</i>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SatishMadunala&label=Profile%20Views&style=flat" />
 </p>
