@@ -1,79 +1,56 @@
 # Hi there, I'm <span style="color:blue; font-weight:bold;">Satish Madhunala</span> 👋
 
-Welcome to my GitHub profile! I'm a passionate Frontend and Junior Full Stack Developer who loves building clean, responsive, and scalable web applications. I enjoy turning ideas into real-world digital solutions and continuously improving my skills with modern technologies.
-
----
+Welcome to my GitHub profile! I'm a passionate web developer specializing in both front-end and back-end development. I enjoy creating dynamic, responsive web applications and continuously learning new technologies to improve my skills.
 
 ## 🚀 About Me
 
-- 🔭 Currently working on frontend and full stack web applications  
-- 🌱 Learning advanced Node.js, Express.js, and backend optimization  
-- 👯 Open to collaborating on full stack and frontend projects  
-- 💬 Ask me about React, JavaScript, UI design, and REST APIs  
-- 📫 Reach me at: [satishmadhunala03@gmail.com](mailto:satishmadhunala03@gmail.com)  
-- ⚡ Fun fact: I enjoy listening to music and playing cricket  
+- 🔭 I’m currently working on building full-stack web applications.
+- 🌱 I’m currently learning advanced Node.js, Express.js, and database integration.
+- 👯 I’m looking to collaborate on full-stack development projects.
+- 🤔 I’m looking for help with optimizing back-end APIs and performance.
+- 💬 Ask me about front-end development with React and back-end development with Node.js.
+- 📫 How to reach me: [satishmadhunala03@gmail.com](mailto:satishmadhunala03@gmail.com).
+- ⚡ Fun fact: I love listening to music and playing cricket.
 
----
+### Connect with Me:
 
-## 🌐 Connect With Me
+[<img align="left" alt="Satish Madhunala's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Satish Madhunala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Satish Madhunala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[![Website](https://img.shields.io/badge/Portfolio-Visit-blue)](https://portfolio-orcin-mu-46.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/satish-madhunala/)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/satishmadhunala)
+<br />
 
----
+[website]: https://satishmadhunala1.github.io
+[linkedin]: https://www.linkedin.com/in/satish-madhunala
+[instagram]: https://www.instagram.com/satishmadhunala
 
 ## 🛠️ Technologies & Tools
 
-### Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" />
+### Front-End  
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-### Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" />
+<br />
 
-### Database
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
+### Back-End  
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
-### Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" />
+<br />
 
----
-## 📊 GitHub Stats
+### Database  
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/satishmadhunala1?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/satishmadhunala1?label=Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/satishmadhunala1?label=Public%20Repos&style=for-the-badge" />
-</p>
+<br />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=satishmadhunala1&label=Profile%20Views&style=for-the-badge" />
-</p>
+### Tools  
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 
-
-## 🚀 Featured Projects
-
-- 🛒 **E-Commerce Website** – React, JavaScript, Tailwind CSS  
-  https://e-commerce-five-phi-52.vercel.app/
-
-- 🍔 **Food Zone Web App** – React, Node.js, Express.js, MongoDB  
-  https://github.com/satishmadhunala1/Food-app
+<br />
 
 ---
-
-## 📈 Contribution Activity
-
-I believe in consistent learning and daily improvement through real-world coding, practice projects, and collaboration.
-
----
-
-⭐ If you like my work, feel free to star my repositories and connect with me!
