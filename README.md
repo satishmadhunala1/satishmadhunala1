@@ -47,16 +47,14 @@ Welcome to my GitHub profile! I'm a passionate Frontend and Junior Full Stack De
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" />
 
 ---
-
 ## 📊 GitHub Stats
 
-![Satish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishmadhunala1&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=satishmadhunala1&show_icons=true&theme=default" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=satishmadhunala1&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=satishmadhunala1&theme=default" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satishmadhunala1&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishmadhunala1&layout=compact&theme=default" />
 
----
 
 ## 🚀 Featured Projects
 
